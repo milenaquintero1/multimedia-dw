@@ -1,0 +1,49 @@
+#dvContact {
+  width: 100%;
+  text-align: center;
+}
+
+#titleContact {
+  color: pink;
+}
+
+.linkBlog {
+  text-decoration: none;
+  color: #444;
+}
+
+.ulList {
+  padding: 0;
+  display: inline-flex;
+  list-style: none;
+}
+
+.blogImg {
+  width: 350px;
+  height: auto;
+}
+
+.ulDetails {
+  list-style: none;
+  padding: 0;
+  margin-left: 20px;
+}
+
+h2 {
+  color: pink;
+}
+
+.dvImgBlog {
+  width: 100%;
+  text-align: center;
+}
+
+.blogImgView {
+  width: 650px;
+  object-fit: scale-down;
+}
+
+.dvBlogView {
+  padding: 25px;
+  line-height: 2;
+}
